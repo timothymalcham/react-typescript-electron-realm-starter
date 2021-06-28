@@ -1,0 +1,15 @@
+{
+  "name": "react-typescript-electron-realm-starter",
+  "version": "0.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:timothymalcham/react-typescript-electron-realm-starter.git",
+  "author": "timothymalcham <timothymalcham@gmail.com>",
+  "license": "MIT",
+  "private": true,
+  "devDependencies": {
+    "electron": "^13.1.4",
+    "electron-builder": "^22.11.7",
+    "electron-webpack": "^2.8.2",
+    "webpack": "^5.40.0"
+  }
+}
